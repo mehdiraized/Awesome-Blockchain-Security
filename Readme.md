@@ -136,7 +136,7 @@ Capture the Flag (CTF) is a special kind of information security competitions
 |--------|-----|------|------|--------|
 | TrustX |a first-of-its-kind technical event dedicated to the Ethereum security ecosystem | https://www.secureum.xyz/trustx |2022 |[Videos](https://www.youtube.com/playlist?list=PLYORQHvGMg-VJ2N7273F8htBCEFdTqjui)|
 |Ekoparty Security Conference|Latin American Security Conference with a Space dedicated to Blockchain Security|   http://ekoparty.org  | Since 2005 | [Videos](https://www.youtube.com/playlist?list=PL29lfGiRoK6H7NID647F0AQoHzvWg1dDp) |
-| Blockchain Security Space at Ekoparty | Latin american community dedicated to share the knowledge about differents Security Blockchain topics.  |  [Website](https://web3-security-latam.gitbook.io/blockchain-security-space/)|2022|[Videos](https://www.youtube.com/channel/UCW3L_Y5SV_towM82RUlDd1A)|
+| Blockchain Security Space at Ekoparty | Latin american community dedicated to share the knowledge about differents Security Blockchain topics. I am the creator of the Space where, for the first time in the conference's history, talks on this topic were brought together. Web3 Secuity Latam  |  [Website](https://web3-security-latam.gitbook.io/blockchain-security-space/)|2022 2023 2024 |[Videos](https://www.youtube.com/channel/UCW3L_Y5SV_towM82RUlDd1A)|
 | Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2019 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaCi3xCMqdz4v0Y4BVjAPCBY) |
 | Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2020 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBdXIvjSR4LwCHUe2LPzIov) |
 | Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2021 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw) |
@@ -157,6 +157,7 @@ Capture the Flag (CTF) is a special kind of information security competitions
 
 ## Youtube Channels
 - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/playlists)
+- [Web3 Security Latam](https://www.youtube.com/@web3securitylatam)
 
 ## Bug Bounty Programs
 - [Code4Arena](https://code4rena.com/)
